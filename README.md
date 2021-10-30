@@ -11,3 +11,7 @@ Latest<br>
   &nbsp;&nbsp;&nbsp;(https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09874843)<br>
  -SW중심대학 산학연계 SW 프로젝트 : 인공지능 기술을 사용한 한국어 객체명 인식기 개발<br>
  -2016 인디게임팀 블랙망고 개발팀 참여<br>
+
+Contact<br>
+boossiman2@gmail.com
+sellaboo@g.skku.edu
