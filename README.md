@@ -13,5 +13,5 @@ Latest<br>
  -2016 인디게임팀 블랙망고 개발팀 참여<br>
 
 Contact<br>
-boossiman2@gmail.com
+boossiman2@gmail.com<br>
 sellaboo@g.skku.edu
