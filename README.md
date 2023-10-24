@@ -4,13 +4,13 @@ Current<br>
  
 
 Latest<br>
- -2023.09 고려대학교 산업경영공학부 IdSquareLab 석사 졸업 <br>
-  (졸업논문 : Diversified Recommendation through Serendipitous Preferences: Focusing on Inter-session and Intra-list similarity, 편입)
- -2023.04 ACM IUI23'companion 발표 : Serendipity into session-based recommendation: Focusing on unexpectedness, relevance, and usefulness of recommendations
- -고려대학교 산학협력단 공학연구원_설명가능한 인공지능에 대한 사용자 중심 설명 인터페이스 개발 (2022.09\~ )<br>
- -성균관대학교 인공지능융합학과 IdSquareLab 소속 석사과정 (2021.02\~2022.09, 중퇴)<br>
-
- -정보통신기획평가원_의료지식 생성을 위한 설명가능한 논리추론 기술개발<br>
+ -(2023.03\~2023.09, 편입) 고려대학교 산업경영공학부 IdSquareLab 석사 졸업 <br>
+  (졸업논문 : Diversified Recommendation through Serendipitous Preferences: Focusing on Inter-session and Intra-list similarity)<br>
+ -(2023.04) ACM IUI23'companion 발표 : Serendipity into session-based recommendation: Focusing on unexpectedness, relevance, and usefulness of recommendations <br>
+  (https://dl.acm.org/doi/abs/10.1145/3581754.3584138) <br>
+ -(2022.09\~2023.07) 고려대학교 산학협력단 공학연구원_설명가능한 인공지능에 대한 사용자 중심 설명 인터페이스 개발 (2022.09\~2023.07)<br>
+ -(2021.02\~2022.09, 중퇴) 성균관대학교 인공지능융합학과 IdSquareLab 소속 석사과정 (2021.02\~2022.09, 중퇴)<br>
+ -(2022.04\~2023.07)정보통신기획평가원_의료지식 생성을 위한 설명가능한 논리추론 기술개발<br>
  -2022 SK SUNI_mysuni Creative Challenge 2022 참가<br>
  -2022 현대자동차_자율주행 상황 위험도와 긴급도 기반 멀티모달 XAI 설명 인터페이스 개발<br>
  -2021 광운대학교 컴퓨터정보공학부 학사 졸업<br>
