@@ -6,7 +6,7 @@ Current<br>
 Latest<br>
  -(2023.03\~2023.09, 편입) 고려대학교 산업경영공학부 IdSquareLab 석사 졸업 <br>
   (졸업논문 : Diversified Recommendation through Serendipitous Preferences: Focusing on Inter-session and Intra-list similarity)<br>
- -(2023.04) ACM IUI23'companion 발표 : Serendipity into session-based recommendation: Focusing on unexpectedness, relevance, and usefulness of recommendations <br>
+ -(2023.04) ACM IUI23'companion 발표 : Serendipity into session-based recommendation: Focusing on unexpectedness, relevance, and usefulness of recommendations
   (https://dl.acm.org/doi/abs/10.1145/3581754.3584138) <br>
  -(2022.09\~2023.07) 고려대학교 산학협력단 공학연구원_설명가능한 인공지능에 대한 사용자 중심 설명 인터페이스 개발 (2022.09\~2023.07)<br>
  -(2021.02\~2022.09, 중퇴) 성균관대학교 인공지능융합학과 IdSquareLab 소속 석사과정 (2021.02\~2022.09, 중퇴)<br>
