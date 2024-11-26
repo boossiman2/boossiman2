@@ -1,14 +1,14 @@
 <h3>안녕하세요. 부상혁입니다.</h3>
 
 Current<br>
- - 2024.11~now 프로그래머스 데이터 엔지니어링 데브코스 
+ - 2024.11~now 프로그래머스 데이터 엔지니어링 데브코스 <br><br>
 
 Latest<br>
 Career<br>
- - 2023.08~2024.09  TMAX BizAI BA2 2-3 백엔드 연구원
- - 2022.09~2023.02 고려대학교 산학협력단 공학연구원 
+ - 2023.08~2024.09  TMAX BizAI BA2 2-3 백엔드 연구원 <br>
+ - 2022.09~2023.02 고려대학교 산학협력단 공학연구원 <br>
 
-Educations
+Educations<br>
  -(2023.03\~2023.09, 편입) 고려대학교 산업경영공학부 IdSquareLab 석사 졸업 <br>
   (졸업논문 : Diversified Recommendation through Serendipitous Preferences: Focusing on Inter-session and Intra-list similarity)<br>
  -(2021.02\~2022.09, 중퇴) 성균관대학교 인공지능융합학과 IdSquareLab 소속 석사과정 (2021.02\~2022.09, 중퇴)<br>
